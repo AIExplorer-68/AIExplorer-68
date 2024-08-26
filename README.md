@@ -26,6 +26,6 @@ I'm focused on understanding the fundamentals of machine learning, from basic al
 1. **Python for Data Science**
 2. **Machine Learning Basics**
 3. **Linear Regression and Classification Models**
-4. **Neural Networks and Deep Learning (Upcoming)**
+4. **Neural Networks and Deep Learning**
 
 If you're working on a project where I can contribute, learn, and gain hands-on experience, I'd love to connect!
